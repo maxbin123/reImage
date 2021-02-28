@@ -1,4 +1,4 @@
-module github.com/ultimate-guitar/reImage
+module github.com/maxbin123/reImage
 
 go 1.15
 
